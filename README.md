@@ -7,7 +7,7 @@ Predict ‘how many medals a country will win at the Olympics’ by using histor
 <br><br>
 <b>Device Setup:</b><br>
 Python 3.12.3 <br>
-Python Libraries:<br>
+Python Libraries
  - pandas
  - seaborn
  - numpy
