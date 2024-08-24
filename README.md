@@ -20,7 +20,7 @@ The goal of this project is to predict a country's Olympic medal count using mac
    - Used Python libraries like Scikit-Learn for model training and evaluation.
 
 5. **Model Evaluation:**  
-   - Compared model performance using metrics like RMSE and R².
+   - Compared model performance using metrics MSE.
    - Selected the best-performing model for predicting the medal count.
 
 6. **Model Optimization:**  
