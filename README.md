@@ -17,7 +17,7 @@ Predict ‘how many medals a country will win at the Olympics’ by using histor
 4.Clean the data<br>
 5.Check error metric<br>
 6.Split the data<br>
-7.Test and Training a model<br>
+7.Test and Training a model
 <br><br>
 <b>Original Data:</b><br>
 120 years of Olympic history: athletes and results:<br>https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
